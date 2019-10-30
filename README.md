@@ -1,2 +1,2 @@
-# https://daltonbc96.github.io/index.html
+# https://daltonbc96.github.io/vis.html
 My personal website
