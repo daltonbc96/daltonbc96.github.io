@@ -7,5 +7,8 @@
 **t-SNE 2D - Doc2Vec**
 https://daltonbc96.github.io/doc2vec.html
 
+**chatbot test ***
+https://daltonbc96.github.io/chatbot.html
+
 
 My personal website
