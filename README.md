@@ -11,7 +11,11 @@ https://daltonbc96.github.io/doc2vec.html
 https://daltonbc96.github.io/chatbot.html
 
 
-https://daltonbc96.github.io/ELSI-01.html
-https://daltonbc96.github.io/ELSI-02.html
+- https://daltonbc96.github.io/ELSI/elsi-01-completo.html
+- https://daltonbc96.github.io/ELSI/elsi-02-completo.html
+- https://daltonbc96.github.io/ELSI/elsi-01-filtered.html
+- https://daltonbc96.github.io/ELSI/elsi-02-filtered.html
+
+
 
 My personal website
